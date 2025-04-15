@@ -1,4 +1,4 @@
-<em> #TP0: Hello, world! </em>
+# TP0: Hello, world! 
 
 Objetivos:
 • Demostrar capacidad para editar, compilar, y ejecutar programas C mediante
@@ -12,14 +12,14 @@ resolución de los trabajos posteriores.
 • Armado de equipo de trabajo.
 
 
-<em> #Consignas </em>
+## Consignas
 
 Indique en el readme.md
 A. el compilador seleccionado,
 B. la versión ese compilador,
 C. y la versión de C que el compilador compila.
 
-<em> #Resolución </em>
+## Resolución
 
 A- Compilador: MinGW
 
