@@ -31,12 +31,11 @@ B- Versión del compilador: (MinGW.org GCC-6.3.0-1) 6.3.0
 
 C- Versión de C: C11
 
-Como obtuve la versión de C:
-#include <stdio.h>
+## Pasos para la obtención de la verción de C que el compilador compila
 
-int main ()
+''' int main ()
 {
     printf ("Version del estandar de C: %id\n", __STDC_VERSION__);
-}
+} '''
 
 Al buscar el número que imprime, obtuve que versión de C estaba compilando.
