@@ -15,9 +15,12 @@ resolución de los trabajos posteriores.
 ## Consignas
 
 Indique en el readme.md
-A. el compilador seleccionado,
-B. la versión ese compilador,
-C. y la versión de C que el compilador compila.
+
+A. El compilador seleccionado
+
+B. La versión ese compilador
+
+C. La versión de C que el compilador compila
 
 ## Resolución
 
