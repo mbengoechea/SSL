@@ -1,5 +1,38 @@
-Compilador: mingw
+<em> #TP0: Hello, world! </em>
 
-Versión del compilador: 6.3.0
+Objetivos:
+• Demostrar capacidad para editar, compilar, y ejecutar programas C mediante
+el desarrollo de un programa simple.
 
-Versión de C: C11
+• Tener un primer contacto con las herramientas necesarias para abordar la
+resolución de los trabajos posteriores.
+
+• Creación de repositorio personal git.
+
+• Armado de equipo de trabajo.
+
+
+<em> #Consignas </em>
+
+Indique en el readme.md
+A. el compilador seleccionado,
+B. la versión ese compilador,
+C. y la versión de C que el compilador compila.
+
+<em> #Resolución </em>
+
+A- Compilador: MinGW
+
+B- Versión del compilador: (MinGW.org GCC-6.3.0-1) 6.3.0
+
+C- Versión de C: C11
+
+Como obtuve la versión de C:
+#include <stdio.h>
+
+int main ()
+{
+    printf ("Version del estandar de C: %id\n", __STDC_VERSION__);
+}
+
+Al buscar el número que imprime, obtuve que versión de C estaba compilando.
