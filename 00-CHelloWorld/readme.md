@@ -1,6 +1,7 @@
 # TP0: Hello, world! 
 
 Objetivos:
+
 • Demostrar capacidad para editar, compilar, y ejecutar programas C mediante
 el desarrollo de un programa simple.
 
